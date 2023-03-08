@@ -21,3 +21,4 @@ finish:
     ecall # print integer ecall
     addi a0, x0, 10
     ecall # terminate ecall
+
